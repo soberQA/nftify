@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: 	WooCommerce Custom Product Type
- * Plugin URI:		http://jeroensormani.com
- * Description:		A simple demo plugin on how to add a custom product type.
+ * Plugin Name: 	Nftify - The NFT plugin
+ * Plugin URI:		https://nftplugin.me
+ * Description:	 	NFT plugin to turn your store into NFT marketplace
  */
 
 /**
