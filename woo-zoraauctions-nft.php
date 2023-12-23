@@ -1,13 +1,13 @@
 <?php
 
 	/**
-	 * Plugin Name: ART HAUS NFT for WooCommerce
+	 * Plugin Name: Nftify
 	 * Plugin URI: https://art.haus
-	 * Description: WooCommerce plugin for NFT auctions using zora
-	 * Version: 1.2.0
-	 * Author: ART HAUS
-	 * Author URI: https://art.haus
-	 * Text domain: arthaus_nft_plugin
+	 * Description: WooCommerce plugin for NFT auctions
+	 * Version: 2.0.0
+	 * Author: @soberbanda
+	 * Author URI: https://profiles.wordpress.org/soberbanda
+	 * Text domain: Nftify - NFT plugin
 	 */
 
 
