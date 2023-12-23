@@ -8,6 +8,8 @@
 	 * Author: @soberbanda
 	 * Author URI: https://profiles.wordpress.org/soberbanda
 	 * Text domain: Nftify 
+	 * License: GPL General Public License V2 or later
+	 *Tags: NFT, NFTif, Token-commerce
 	 */
 
 
