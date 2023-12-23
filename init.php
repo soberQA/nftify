@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: 	Nftify - The NFT plugin
+ * Plugin Name: 	Nftify 
  * Plugin URI:		https://nftplugin.me
  * Description:	 	NFT plugin to turn your store into NFT marketplace
  */
