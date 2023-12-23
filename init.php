@@ -3,6 +3,7 @@
  * Plugin Name: 	Nftify 
  * Plugin URI:		https://nftplugin.me
  * Description:	 	NFT plugin to turn your store into NFT marketplace
+ * Version:		2.0.0
  */
 
 /**
