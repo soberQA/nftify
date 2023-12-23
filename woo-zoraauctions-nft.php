@@ -7,7 +7,7 @@
 	 * Version: 2.0.0
 	 * Author: @soberbanda
 	 * Author URI: https://profiles.wordpress.org/soberbanda
-	 * Text domain: Nftify - NFT plugin
+	 * Text domain: Nftify 
 	 */
 
 
