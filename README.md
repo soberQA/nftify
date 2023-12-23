@@ -2,23 +2,20 @@
 
 Visitors to your WordPress website are presented with the WooCommerce experience they are already familiar with. Products that you've set as [NFT Auctions](https://art.haus/shop/) will have the usual checkout experience replaced with a simple Web3 flow. Collectors simply connect their wallet via either MetaMask or WalletConnect integration and are then able to place on-chain bids directly from the product page.
 
-![](https://raw.githubusercontent.com/artdothaus/brand-assets/main/wordpress-nft-plugin-demo.png)
 
 ## Enable NFT Auction Product Type in Store Admin
 
 Once the plugin is installed and activated you will find a new Product Type available in the Product data dropdown selector. By choosing "NFT Auction" and visiting the corresponding tab, you will find all the necessary fields to approve your NFT and create an auction using [ZORA's Auction House contract](https://docs.zora.co/docs/smart-contracts/zora-contracts#auction-house) on Ethereum. MetaMask or WalletConnect integration are both available for connection.
 
-![](https://raw.githubusercontent.com/artdothaus/brand-assets/main/wordpress-nft-plugin.jpg)
+
 
 ## Getting Started
 
 ### Installing the Plugin
 
-1. [Download ZIP](https://github.com/artdothaus/wordpress-nft-plugin/archive/refs/heads/main.zip) of this repo
-2. Login to your WordPress admin
-3. Visit Plugins > Add New > Upload
-4. "Choose file" and select ZIP downloaded
-5. Click "Install Now" then "Activate"
+1.. Login to your WordPress admin
+2.  Visit Plugins-> Search Nftify
+3. Click "Install Now" then "Activate"
 
 ### Creating an NFT Auction
 
